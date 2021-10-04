@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = filip.brouwers@gmail.com
+	name = Filip Brouwers
